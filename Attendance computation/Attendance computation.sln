@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attendance computation", "Attendance computation\Attendance computation.csproj", "{037E4EF5-EBBD-4DE5-8673-0B39528BD18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037E4EF5-EBBD-4DE5-8673-0B39528BD18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037E4EF5-EBBD-4DE5-8673-0B39528BD18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037E4EF5-EBBD-4DE5-8673-0B39528BD18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037E4EF5-EBBD-4DE5-8673-0B39528BD18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F019AE-3A53-477F-B9EA-644A5A4BFBB9}
+	EndGlobalSection
+EndGlobal

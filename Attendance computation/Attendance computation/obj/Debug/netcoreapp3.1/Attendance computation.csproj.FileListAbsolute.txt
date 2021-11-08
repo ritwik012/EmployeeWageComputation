@@ -1,0 +1,14 @@
+E:\New folder\Attendance computation\Attendance computation\bin\Debug\netcoreapp3.1\Attendance computation.exe
+E:\New folder\Attendance computation\Attendance computation\bin\Debug\netcoreapp3.1\Attendance computation.deps.json
+E:\New folder\Attendance computation\Attendance computation\bin\Debug\netcoreapp3.1\Attendance computation.runtimeconfig.json
+E:\New folder\Attendance computation\Attendance computation\bin\Debug\netcoreapp3.1\Attendance computation.runtimeconfig.dev.json
+E:\New folder\Attendance computation\Attendance computation\bin\Debug\netcoreapp3.1\Attendance computation.dll
+E:\New folder\Attendance computation\Attendance computation\bin\Debug\netcoreapp3.1\Attendance computation.pdb
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.csproj.AssemblyReference.cache
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.AssemblyInfoInputs.cache
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.AssemblyInfo.cs
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.csproj.CoreCompileInputs.cache
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.dll
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.pdb
+E:\New folder\Attendance computation\Attendance computation\obj\Debug\netcoreapp3.1\Attendance computation.genruntimeconfig.cache
