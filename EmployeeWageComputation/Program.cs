@@ -7,8 +7,12 @@ namespace EmployeeWageProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Employee Wage Computation Problem");
-            EmployeeWageProblem.monthlyEmployeeWage("PVP", 20, 20, 100);
-            EmployeeWageProblem.monthlyEmployeeWage("DMART", 30, 24, 140);
+            EmpWageBuilder dMart = new EmpWageBuilder("DMart", 20, 20, 100);
+            EmpWageBuilder pvp = new EmpWageBuilder("PVP", 25, 24, 160);
+            dMart.computeEmpWage();
+            Console.WriteLine(dMart.toString());
+            pvp.computeEmpWage();
+            Console.WriteLine(pvp.toString());
         }
     }
 }
