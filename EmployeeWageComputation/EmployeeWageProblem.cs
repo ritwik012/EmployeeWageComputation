@@ -32,6 +32,7 @@ namespace EmployeeWageProblem
             }
             totalEmpWage = totalEmpHrs * EMP_RATE_PER_HOUR;
             Console.WriteLine("Total Employee Wage : " + totalEmpWage);
+
         }
     }
 }
